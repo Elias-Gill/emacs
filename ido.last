@@ -1,0 +1,32 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/elias/Descargas/" . "musializer/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/elias/Descargas/musializer/src/"
+ "/home/elias/Descargas/musializer/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "musializer.c"
+ "CHANGELOG.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/elias/Descargas/musializer/src/" (26293 31255 70944 888000) "utf8.xml" "ffmpeg_linux.c" "musializer.rc" "hotreload_windows.c" "../" "./" "musializer.c" "hotreload.h" "hotreload_posix.c" "ffmpeg_windows.c" "plug.c" "plug.h" "ffmpeg.h")
+
+ ("/home/elias/Descargas/musializer/" (26293 31285 971151 504000) ".git/" "../" "./" "nob.h" "musializer-logged.bat" "src/" "resources/" "raylib/" ".gitignore" "src_build/" "LICENSE" "nob.c" "CHANGELOG.txt" ".github/" "CONTRIBUTING.md" "README.md")
+
+ ("/home/elias/Descargas/" (26293 31253 197598 882000) "mpv/" "../" "./" "raylib/" "musializer/" "factura/" "django/")
+
+ ("/home/elias/" (26294 18621 118428 775000) ".xsession-errors.old" ".idlerc/" ".dotnet/" ".Xauthority" ".steampath" "Proyectos/" ".gnupg/" ".vscode-oss/" ".git/" ".notmuch-config" ".urxvt/" ".bashrc" ".zcompdump" ".dmenurc" ".moc/" ".aesh_aliases" ".npm/" ".xsession-errors" "../" ".ssh/" "Descargas/" "Plantillas/" "./" ".mplayer/" ".gitconfig" ".config/" ".cargo/" ".p10k.zsh" "Musica/" ".pki/" ".profile" ".steampid" ".redhat/" ".../" ".bash_profile" ".icons/" ".cookiecutter_replay/" ".fehbg" ".mozilla/" ".rustup/" ".msmtprc" ".m2/" ".swt/" "Documentos/" ".java/" ".viminfo" ".Xresources" ".eclipse/" ".password-store/" ".local/" ".vscode/" ".zshenv" ".xinitrc" ".steam/" ".Xclients" "Imágenes/" ".git-credentials" ".wget-hsts" "facultad/" ".codeium/" ".cache/" ".zshrc" ".opam/" ".dir_colors" "Escritorio/" ".pyenv/" ".dmrc" ".bash_history" ".vim/" ".wine/" ".zsh_history" ".virtualenvs/" ".xsession" ".rnd" ".gtkrc-2.0")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
