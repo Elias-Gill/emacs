@@ -520,9 +520,6 @@ Counsel, a collection of Ivy-enhanced versions of common Emacs commands.
     (use-package ivy-rich ;; This gets us descriptions in M-x.
       :init (ivy-rich-mode 1))
 
-    (use-package nerd-icons-ivy-rich ;; Adds icons to M-x.
-      :init (nerd-icons-ivy-rich-mode 1))
-
     (use-package counsel
       :diminish
       :config (counsel-mode))
