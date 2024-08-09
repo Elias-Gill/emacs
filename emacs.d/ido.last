@@ -1,0 +1,44 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/elias/.config/nvim/lua/elias/" . "plugins/")
+ ("/home/elias/Descargas/" . "raylib/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/elias/.config/nvim/lua/elias/plugins/"
+ "/home/elias/Descargas/raylib/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/elias/.config/nvim/lua/elias/plugins/" (26095 52897 74658 158000) "devtools/" "../" "./" "lsp/" "navigation/" "init.lua" "ui/")
+
+ ("/home/elias/.config/nvim/lua/elias/" (26281 7582 347221 865000) "plugins/" "../" "./" "options.lua" "disable_builtins.lua")
+
+ ("/home/elias/.config/nvim/lua/" (26268 2499 693699 430000) "oldworld/" "elias/" "../" "./" "unused/")
+
+ ("/home/elias/" (26293 34888 35916 952000) ".xsession-errors.old" ".idlerc/" ".dotnet/" ".Xauthority" ".steampath" "Proyectos/" ".gnupg/" ".vscode-oss/" ".git/" ".notmuch-config" ".urxvt/" ".bashrc" ".zcompdump" ".dmenurc" ".moc/" ".aesh_aliases" ".npm/" ".xsession-errors" "../" ".ssh/" "Descargas/" "Plantillas/" "./" ".mplayer/" ".gitconfig" ".config/" ".emacs.d/" ".emacs" ".cargo/" ".p10k.zsh" "Musica/" ".pki/" ".profile" ".steampid" ".redhat/" ".../" ".emacs.rc/" ".bash_profile" ".icons/" ".cookiecutter_replay/" ".fehbg" ".mozilla/" ".rustup/" ".msmtprc" ".m2/" ".swt/" "Documentos/" ".java/" ".viminfo" ".Xresources" ".eclipse/" ".password-store/" ".local/" ".vscode/" ".zshenv" ".xinitrc" ".steam/" ".Xclients" "Imágenes/" ".emacs.snippets/" ".git-credentials" ".wget-hsts" "facultad/" ".codeium/" ".cache/" ".zshrc" ".opam/" ".dir_colors" "Escritorio/" ".pyenv/" ".dmrc" ".bash_history" ".vim/" ".wine/" ".zsh_history" ".virtualenvs/" ".emacs.local/" ".xsession" ".rnd" ".gtkrc-2.0")
+
+ ("/home/elias/.config/" (26293 33081 202802 406000) "pulse/" "cef_user_data/" "yadm/" "sway/" "Mousepad/" "alacritty/" "i3blocks/" "lynx/" "screenlayout/" "gtk-2.0/" "ranger/" "JetBrains/" "cmus/" "yazi/" "recuperacion.sh" "mpv/" "kdeconnect/" "starship.toml" "volumeicon/" "autostart/" "git_saver.txt" "../" "dmenu-recent/" "zed/" "QtProject.conf" "gconf/" "./" "pavucontrol.ini" "_emacs_/" "BraveSoftware/" "kitty/" "scripts/" "secrets" "xournalpp/" "go/" "sesh/" "micro/" "picom.conf" "hypr/" ".android/" "waybar/" "inkscape/" "rofi/" "fastfetch/" "lazygit/" "user-dirs.locale" "clipit/" "ytui_music/" "tmux/" "falkon/" "Kvantum/" "wezterm/" "qt5ct/" "yay/" "manjaro/" "discord/" "msmtp/" "Code/" "tealdeer/" "Min/" "zsh-themes/" "font-manager/" "obs-studio/" "fontconfig/" "user-dirs.dirs" "mutt/" "gtk-3.0/" "manjaro-hello.json" "walldo/" "configstore/" "onlyoffice/" "calcurse/" "i3/" "yarn/" "mimeapps.list" "fyne/" "dunst/" "libreoffice/" "pcmanfm/" "htop/" "glib-2.0/" "zathura/" "gh/" "btop/" "kwalletrc" "Code - OSS/" "vlc/" "qBittorrent/" "i3-scrot.conf" "xfce4/" "morc_menu/" "libfm/" "tlpui/" "viewnior/" "nvim/" "picom/" "obsidian/" "gcolor3/" "gdb/" "dconf/" "xarchiver/")
+
+ ("/home/elias/.config/nvim/colors/" (26270 38983 910241 924000) "oldworld.lua" "../" "./")
+
+ ("/home/elias/.config/nvim/" (26293 33663 51438 179000) "lua/" ".git/" "snippets/" "../" "./" "after/" "lazy-lock.json" "colors/" ".gitignore" "init.lua" ".luarc.json" "README.md" "package.json")
+
+ ("/home/elias/Descargas/raylib/" (26293 31024 175868 91000) ".git/" "../" "build/" "./" ".gitattributes" "CMakeLists.txt" "sources/" "assets/" ".gitignore" "LICENSE" ".cache/" "README.md")
+
+ ("/home/" (25836 35771 423393 495000) "elias/" "../" "./")
+
+ ("/home/elias/Descargas/" (26293 31253 197598 882000) "mpv/" "../" "./" "raylib/" "musializer/" "factura/" "django/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

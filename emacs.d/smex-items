@@ -1,0 +1,17 @@
+
+;; ----- smex-history -----
+(
+ grep-find
+ grep
+ ag
+ cd
+ 5x5
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (grep . 1)
+ (grep-find . 1)
+)
