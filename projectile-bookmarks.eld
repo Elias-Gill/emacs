@@ -1,1 +1,0 @@
-("~/Descargas/musializer/" "~/" "~/Descargas/raylib/" "~/.config/emacs/")
