@@ -1162,6 +1162,10 @@
   ;; Load the Catppuccin theme without prompting for confirmation.
   (load-theme 'catppuccin :no-confirm))
 
+;; gruver-darker theme
+(require 'package)
+(add-to-list 'package-archives
+             '("melpa" . "http://melpa.milkbox.net/packages/") t)
 
 ;;; UTILITARY FUNCTION TO INSTALL EMACS-KICK
 (defun ek/first-install ()
